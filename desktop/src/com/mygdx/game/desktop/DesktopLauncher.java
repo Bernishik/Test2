@@ -10,6 +10,6 @@ public class DesktopLauncher {
 		new LwjglApplication(new StartGame(), config);
 		// hello world
 		// kik kek cheburek
-		// kak 21e
+		// kak 123456
 	}
 }
