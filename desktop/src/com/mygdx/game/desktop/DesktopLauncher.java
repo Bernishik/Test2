@@ -9,5 +9,6 @@ public class DesktopLauncher {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new StartGame(), config);
 		// hello world
+		// kik kek cheburek
 	}
 }
